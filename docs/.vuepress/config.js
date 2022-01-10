@@ -8,7 +8,7 @@ module.exports = {
       { text: 'VIVES', link: 'https://www.vives.be' },
     ],
     sidebarDepth: 1,
-    repo: 'https://github.com/BioBoost/bachelor-thesis-vuepress-template',
+    repo: 'https://github.com/vives-devbit/bachelor-thesis-vuepress-template',
     docsDir: 'docs',
     docsBranch: 'master',
     sidebar: [
