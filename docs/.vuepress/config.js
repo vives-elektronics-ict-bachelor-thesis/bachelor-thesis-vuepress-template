@@ -19,6 +19,7 @@ module.exports = {
       '/attachments/',
       '/abbreviations/',
       '/bibliography/',
+      '/pdf-generation/',
     ]
   },
   serviceWorker: true,
