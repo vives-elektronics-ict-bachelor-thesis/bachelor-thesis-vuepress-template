@@ -1,5 +1,9 @@
 # PDF Genereren
 
+:::warning Disable deze pagina
+Eens je thesis zijn einde nadert, mag je deze pagina uit het navigatiemenu halen. Dit kan je doen in `docs/.vuepress/config.js`
+:::
+
 Om een PDF van de thesis te genereren zal er moeten worden gewerkt in een aantal stappen.
 
 In eerste instantie dienen het abstract en de hoofdstukken te worden "geprint" als PDF. Daarnaast zal ook het voorblad (zie Toledo) dienen te worden geconverteerd naar PDF vanuit Word.
