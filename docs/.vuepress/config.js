@@ -26,6 +26,7 @@ module.exports = {
       '/bibliography/README.md',
       '/pdf-generation/README.md',
       '/blog/README.md',
+      '/netlify/README.md',
     ],
     sidebarDepth: 1,
     repo: 'https://github.com/vives-elektronics-ict-bachelor-thesis/bachelor-thesis-vuepress-template',
